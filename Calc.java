@@ -299,6 +299,7 @@ public class Calc extends Applet implements ActionListener {
     // helper function
     // for the pop button
     protected void pop(){
+    	
     	if (stack.size() > 1){
 			current = stack.pop();
 			show(stack.peek()); // peek at the top
