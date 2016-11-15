@@ -1,6 +1,4 @@
 // Postfix Calculator Applet
-// CS 201 HW 8
-// Name: Mateja Sela
 // Date: 04/26/2016
 
 import java.applet.*;
